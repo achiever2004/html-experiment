@@ -1,0 +1,44 @@
+
+
+img{
+    max-height: 8rem;
+    border-radius: 100%;
+    background-color: white;
+}
+h1{
+    color: red;
+}
+
+#login_credentials, #first_page_center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.zero{
+    text-align: center;
+    border-top: 10px;
+}
+
+.first_title, .second_title{
+    text-align: center;
+}
+
+.first_page{
+    text-align: center;
+}
+
+.first_Employee_img{
+    width:12% ;
+    margin-left :44%;
+}
+
+.first_Employer_img{
+    width:12% ;
+    margin-left :44%;
+}
+
+.second_menu_bar{
+    border: transparent;
+    border-radius: 5%;
+}
